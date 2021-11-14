@@ -1,0 +1,39 @@
+#div1 {
+    background-color: aqua;
+    width: 125px;
+    height: 500px;
+    margin: 3px;
+    border: solid;
+    
+}
+
+#div2 {
+    background-color: yellow;
+    width: 125px;
+    height: 500px;
+    margin: 3px;
+    border: solid;
+    position: absolute;
+    top: 0%;
+    left: 20%;
+    
+}
+#div3 {
+    background-color:goldenrod;
+    width: 125px;
+    height: 500px;
+    margin: 3px;
+    border: solid;
+    position: absolute;
+    top: 0%;
+    left: 40%;  
+}
+#div4 {
+    background-color: black;
+    width: 125px;
+    height: 500px;
+    margin: 3px;
+    border: solid;
+    position: absolute;
+    top: 0%;
+    left: 60%;  

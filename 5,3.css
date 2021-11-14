@@ -1,0 +1,54 @@
+#div1 {
+    background-color: darkviolet;
+    border: solid;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 10%;
+    left: 2%;
+}
+#div2 {
+    background-color: aqua;
+    border: solid;
+    width: 1000px;
+    height: 100px;
+    position: absolute;
+    top: 10%;
+    left: 17%;
+}
+#div3 {
+    background-color: grey;
+    border: solid;
+    width: 200px;
+    height: 500px;
+    position: absolute;
+    top: 27%;
+    left: 2%;
+}
+#div4 {
+    background-color: blue;
+    border: solid;
+    width: 750px;
+    height: 500px;
+    position: absolute;
+    top: 27%;
+    left: 17%;
+}
+#div5 {
+    background-color: darkorchid;
+    border: solid;
+    width: 200px;
+    height: 500px;
+    position: absolute;
+    top: 27%;
+    left: 68%;
+} 
+#div6 {
+    background-color: darkblue;
+    border: solid;
+    width: 1220px;
+    height: 100px;
+    position: absolute;
+    top: 99%;
+    left: 2%;
+}

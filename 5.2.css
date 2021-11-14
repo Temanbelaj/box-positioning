@@ -1,0 +1,42 @@
+#div1 {
+    background-color: blue;
+    width: 1000px;
+    height: 150px;
+    border: solid; 
+    margin: 3em;
+    left: 10px;
+}
+#div2 {
+    background-color: darkviolet;
+    width: 200px;
+    height: 200px;
+    border: solid; 
+    margin: 3em;
+}
+#div3 {
+    background-color:aqua;
+    width: 740px;
+    height: 200px;
+    border: solid; 
+    margin: 3em; 
+    position: absolute;
+    top: 31%;
+    left: 20%;
+}
+#div4 {
+    background-color: darkcyan;
+    width: 200px;
+    height: 200px;
+    border: solid; 
+    margin: 3em;
+}
+#div5 {
+    background-color: navy;
+    width: 740px;
+    height: 200px;
+    border: solid; 
+    margin: 3em; 
+    position: absolute;
+    top: 70%;
+    left: 20%;
+}
